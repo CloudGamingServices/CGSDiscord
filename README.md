@@ -1,2 +1,0 @@
-# CGSDiscord
-CGS Discord
